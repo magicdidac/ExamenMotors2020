@@ -16,4 +16,4 @@ Sonido: Hay dos clips que se van alternando y modifica el pich suena al pulsar l
 
 Animaciones: Idle de crouch y walk de crouch al pulsar la c
 
-AI: a medias, el enemigo persigue al player y le ataca pero el player no puede matar al enemigo
+AI: a medias, el enemigo persigue al player y le ataca pero el player no puede matar al enemigo.
