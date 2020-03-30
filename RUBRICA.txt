@@ -1,0 +1,19 @@
+Terrain: Esta todo el tarrain con montañas en los bordes, con vegetación y arboles.
+
+Actions/Axis: R reload map, C crouch, E Scream/Interact
+
+3 Triggers: Las estatuas a modo de monedas, necesitas 3 para abrir la puerta, y la dead zone está al final de la plataforma una vez pasada la puerta.
+
+3 Luces y ciclo día/noche: Spot donde la puerta, point en las estatuas, rect en la plataforma del third person project
+
+3 HUD: Contador de estatuas, Slider para mostrar la vida del player, Pantalla roja para cuando el player recibe impacto
+
+2 Animaciones HUD: Contador de estatuas entra y sale y la pantalla roja aparece y se desvanece
+
+Restart level: en el level bp si le das a la R abres de nuevo el nivel
+
+Sonido: Hay dos clips que se van alternando y modifica el pich suena al pulsar la E
+
+Animaciones: Idle de crouch y walk de crouch al pulsar la c
+
+AI: a medias, el enemigo persigue al player y le ataca pero el player no puede matar al enemigo
